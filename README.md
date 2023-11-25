@@ -4,11 +4,20 @@
 Name: Simon Lim
 
 ## Description
-YouTube is the worldwide video sharing platform, which share various categories and top trending videos on the platform. Top trending videos are evaluated based on video’s number of views, shares, likes and comments etc. A dataset with a daily record of the top popular and trending videos has been extracted through YouTube API. 
+The New York City Taxi and Limousine Commission (TLC) is the agency responsible for 
+regulating and managing New York City’s taxi cabs. TLC regularly records millions of trips 
+information from both yellow and green taxi cabs, including pick-up and drop-off 
+dates/times, locations, trip distances, payment types and total amount etc. While yellow 
+taxi cabs are the iconic taxi vehicles, which can pick up passengers anywhere in the city, 
+green taxi cabs can only pick up passengers in certain designated areas.
+In this regard, the objective of the project is to analyse a large dataset and obtain 
+meaningful outcomes using Spark in Databricks. The procedure of the project includes data 
+ingestion and preparation, data transformation and analysis and finally training a Machine 
+Learning algorithm for predicting total amount of trips. In this project, Databricks is a main 
+platform used to perform data preparation, cleaning and machine learning.
 
-In this regard, the objective of the project is to analyse the dataset, which consists of CSVs and Jsons files, by using a Data Lakehouse with Snowflake. The procedure of the project includes data ingestion, data cleaning, data analysis and answering business questions. Snowflake is a main data warehouse and SQL platform used in this project, in order to load and analyse data. 
+![image](https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark/assets/150989115/eb33a883-7ffc-4569-b690-7445e5eb9e0d)
 
-![image](https://github.com/SimonLim03/Youtube-Videos-Data-Lakehouse/assets/150989115/ab2ef781-0fca-4e95-a44b-620e53c3f115)
 
 
 ## Presentation of Dataset
