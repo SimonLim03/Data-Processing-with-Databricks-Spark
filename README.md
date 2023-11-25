@@ -37,4 +37,5 @@ processing delay.
 hence be able to include a more massive amount of data.
 
 
-## PIPELINE OF THE PROJECT 
+## Results of Analysis and Machine Learning
+- Refer to the hand-over report for outcomes of the project
