@@ -41,4 +41,4 @@ hence be able to include a more massive amount of data.
 
 
 ## Results of Analysis and Machine Learning
-- Refer to the hand-over report for outcomes of the project
+- Please refer to the hand-over report for findings and insights of the project
