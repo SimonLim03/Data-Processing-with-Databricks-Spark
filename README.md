@@ -10,11 +10,14 @@ information from both yellow and green taxi cabs, including pick-up and drop-off
 dates/times, locations, trip distances, payment types and total amount etc. While yellow 
 taxi cabs are the iconic taxi vehicles, which can pick up passengers anywhere in the city, 
 green taxi cabs can only pick up passengers in certain designated areas.
+
 - In this regard, the objective of the project is to analyse a large dataset and obtain 
 meaningful outcomes using Spark in Databricks. The procedure of the project includes data 
 ingestion and preparation, data transformation and analysis and finally training a Machine 
 Learning algorithm for predicting total amount of trips. In this project, Databricks is a main 
 platform used to perform data preparation, cleaning and machine learning.
+
+- Analysis of New York City Taxi has given a comprehensive overview of total amount of trips in New York. Also, it provided a specific time range that taxi drivers can make the highest amounts of trips.
 
 ![image](https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark/assets/150989115/eb33a883-7ffc-4569-b690-7445e5eb9e0d)
 
