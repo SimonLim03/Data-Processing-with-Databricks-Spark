@@ -17,7 +17,6 @@ ingestion and preparation, data transformation and analysis and finally training
 Learning algorithm for predicting total amount of trips. In this project, Databricks is a main 
 platform used to perform data preparation, cleaning and machine learning.
 
-- Analysis of New York City Taxi has given a comprehensive overview of total amount of trips in New York. Also, it provided a specific time range that taxi drivers can make the highest amounts of trips.
 
 ![image](https://github.com/SimonLim03/Data-Processing-with-Databricks-Spark/assets/150989115/eb33a883-7ffc-4569-b690-7445e5eb9e0d)
 
@@ -41,4 +40,5 @@ hence be able to include a more massive amount of data.
 
 
 ## Results of Analysis and Machine Learning
+- Analysis of New York City Taxi has given a comprehensive overview of total amount of trips in New York. Also, it provided a specific time range that taxi drivers can make the highest amounts of trips.
 - Please refer to the hand-over report for findings and insights of the project
