@@ -40,5 +40,5 @@ hence be able to include a more massive amount of data.
 
 
 ## Results of Analysis and Machine Learning
-- Analysis of New York City Taxi has given a comprehensive overview of total amount of trips in New York. Also, it provided a specific time range that taxi drivers can make the highest amounts of trips.
+- Analysis of New York City Taxi has given a comprehensive overview of total amount of trips in New York. Also, it provided a specific time range that taxi drivers can potentially make the highest amounts of trips.
 - Please refer to the hand-over report for findings and insights of the project
