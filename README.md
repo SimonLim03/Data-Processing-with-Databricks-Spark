@@ -1,4 +1,4 @@
-# New York City Taxi Data Processing with Spark
+# Big Data Processing and Analysis of New York City Taxi Data
 
 ## Author
 Name: Simon Lim
